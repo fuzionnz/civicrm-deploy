@@ -1,0 +1,6 @@
+[submodule "drupal"]
+	path = drupal
+	url = git@github.com:fuzionnz/civicrm-drupal
+[submodule "civicrm-core"]
+	path = civicrm-core
+	url = git@github.com:fuzionnz/civicrm-core.git
